@@ -1,0 +1,7 @@
+﻿  Header.cpp
+D:\18120212\Phanso\Phanso\Phanso\Header.cpp(10): warning C4018: '<': signed/unsigned mismatch
+D:\18120212\Phanso\Phanso\Phanso\Header.cpp(12): warning C4018: '<': signed/unsigned mismatch
+D:\18120212\Phanso\Phanso\Phanso\Header.cpp(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\18120212\Phanso\Phanso\Phanso\Header.cpp(22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\18120212\Phanso\Phanso\Phanso\Header.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Phanso.vcxproj -> D:\18120212\Phanso\Phanso\Debug\Phanso.exe
